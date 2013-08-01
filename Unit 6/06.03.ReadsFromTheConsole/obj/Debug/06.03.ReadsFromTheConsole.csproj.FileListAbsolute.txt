@@ -1,0 +1,6 @@
+D:\Telerik\Homework6\HomeworkLoops\06.03.ReadsFromTheConsole\bin\Debug\06.03.ReadsFromTheConsole.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.03.ReadsFromTheConsole\bin\Debug\06.03.ReadsFromTheConsole.exe
+D:\Telerik\Homework6\HomeworkLoops\06.03.ReadsFromTheConsole\bin\Debug\06.03.ReadsFromTheConsole.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.03.ReadsFromTheConsole\obj\Debug\06.03.ReadsFromTheConsole.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework6\HomeworkLoops\06.03.ReadsFromTheConsole\obj\Debug\06.03.ReadsFromTheConsole.exe
+D:\Telerik\Homework6\HomeworkLoops\06.03.ReadsFromTheConsole\obj\Debug\06.03.ReadsFromTheConsole.pdb

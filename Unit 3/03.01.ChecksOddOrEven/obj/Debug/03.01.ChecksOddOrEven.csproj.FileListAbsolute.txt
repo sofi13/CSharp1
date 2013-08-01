@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.01.ChecksOddOrEven\bin\Debug\03.01.ChecksOddOrEven.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.01.ChecksOddOrEven\obj\Debug\03.01.ChecksOddOrEven.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.01.ChecksOddOrEven\bin\Debug\03.01.ChecksOddOrEven.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.01.ChecksOddOrEven\bin\Debug\03.01.ChecksOddOrEven.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.01.ChecksOddOrEven\obj\Debug\03.01.ChecksOddOrEven.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.01.ChecksOddOrEven\obj\Debug\03.01.ChecksOddOrEven.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.12.SequenceOfOperators\bin\Debug\03.12.SequenceOfOperators.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.12.SequenceOfOperators\obj\Debug\03.12.SequenceOfOperators.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.12.SequenceOfOperators\bin\Debug\03.12.SequenceOfOperators.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.12.SequenceOfOperators\bin\Debug\03.12.SequenceOfOperators.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.12.SequenceOfOperators\obj\Debug\03.12.SequenceOfOperators.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.12.SequenceOfOperators\obj\Debug\03.12.SequenceOfOperators.pdb

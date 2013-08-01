@@ -1,0 +1,5 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.02.BooleanExpression\bin\Debug\03.02.BooleanExpression.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.02.BooleanExpression\bin\Debug\03.02.BooleanExpression.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.02.BooleanExpression\bin\Debug\03.02.BooleanExpression.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.02.BooleanExpression\obj\Debug\03.02.BooleanExpression.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.02.BooleanExpression\obj\Debug\03.02.BooleanExpression.pdb

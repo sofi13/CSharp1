@@ -1,0 +1,5 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.13.NullValues\bin\Debug\2.13.NullValues.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.13.NullValues\bin\Debug\2.13.NullValues.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.13.NullValues\bin\Debug\2.13.NullValues.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.13.NullValues\obj\Debug\2.13.NullValues.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.13.NullValues\obj\Debug\2.13.NullValues.pdb

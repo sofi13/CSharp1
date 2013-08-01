@@ -1,0 +1,6 @@
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.05.AsksForADigit\bin\Debug\05.05.AsksForADigit.exe.config
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.05.AsksForADigit\obj\Debug\05.05.AsksForADigit.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.05.AsksForADigit\bin\Debug\05.05.AsksForADigit.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.05.AsksForADigit\bin\Debug\05.05.AsksForADigit.pdb
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.05.AsksForADigit\obj\Debug\05.05.AsksForADigit.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.05.AsksForADigit\obj\Debug\05.05.AsksForADigit.pdb

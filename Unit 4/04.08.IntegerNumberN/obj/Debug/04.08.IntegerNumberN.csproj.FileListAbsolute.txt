@@ -1,0 +1,6 @@
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.08.IntegerNumberN\bin\Debug\04.08.IntegerNumberN.exe.config
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.08.IntegerNumberN\bin\Debug\04.08.IntegerNumberN.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.08.IntegerNumberN\bin\Debug\04.08.IntegerNumberN.pdb
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.08.IntegerNumberN\obj\Debug\04.08.IntegerNumberN.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.08.IntegerNumberN\obj\Debug\04.08.IntegerNumberN.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.08.IntegerNumberN\obj\Debug\04.08.IntegerNumberN.pdb

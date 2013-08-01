@@ -1,0 +1,6 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.5.UnicodeCode\bin\Debug\2.5.UnicodeCode.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.5.UnicodeCode\bin\Debug\2.5.UnicodeCode.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.5.UnicodeCode\bin\Debug\2.5.UnicodeCode.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.5.UnicodeCode\obj\Debug\2.5.UnicodeCode.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.5.UnicodeCode\obj\Debug\2.5.UnicodeCode.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.5.UnicodeCode\obj\Debug\2.5.UnicodeCode.pdb

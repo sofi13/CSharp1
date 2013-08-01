@@ -1,0 +1,6 @@
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.11.ConvertsANumber\bin\Debug\05.11.ConvertsANumber.exe.config
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.11.ConvertsANumber\bin\Debug\05.11.ConvertsANumber.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.11.ConvertsANumber\bin\Debug\05.11.ConvertsANumber.pdb
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.11.ConvertsANumber\obj\Debug\05.11.ConvertsANumber.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.11.ConvertsANumber\obj\Debug\05.11.ConvertsANumber.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.11.ConvertsANumber\obj\Debug\05.11.ConvertsANumber.pdb

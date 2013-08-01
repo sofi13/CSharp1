@@ -1,0 +1,6 @@
+D:\Telerik\Homework6\HomeworkLoops\06.11.AllPossibleCards\bin\Debug\06.11.AllPossibleCards.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.11.AllPossibleCards\bin\Debug\06.11.AllPossibleCards.exe
+D:\Telerik\Homework6\HomeworkLoops\06.11.AllPossibleCards\bin\Debug\06.11.AllPossibleCards.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.11.AllPossibleCards\obj\Debug\06.11.AllPossibleCards.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework6\HomeworkLoops\06.11.AllPossibleCards\obj\Debug\06.11.AllPossibleCards.exe
+D:\Telerik\Homework6\HomeworkLoops\06.11.AllPossibleCards\obj\Debug\06.11.AllPossibleCards.pdb

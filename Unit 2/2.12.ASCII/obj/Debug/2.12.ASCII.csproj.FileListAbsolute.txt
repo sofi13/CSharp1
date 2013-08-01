@@ -1,0 +1,5 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.12.ASCII\bin\Debug\2.12.ASCII.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.12.ASCII\bin\Debug\2.12.ASCII.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.12.ASCII\bin\Debug\2.12.ASCII.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.12.ASCII\obj\Debug\2.12.ASCII.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.12.ASCII\obj\Debug\2.12.ASCII.pdb

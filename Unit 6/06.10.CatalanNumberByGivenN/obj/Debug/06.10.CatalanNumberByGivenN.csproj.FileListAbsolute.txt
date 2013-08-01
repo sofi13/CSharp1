@@ -1,0 +1,5 @@
+D:\Telerik\Homework6\HomeworkLoops\06.10.CatalanNumberByGivenN\bin\Debug\06.10.CatalanNumberByGivenN.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.10.CatalanNumberByGivenN\bin\Debug\06.10.CatalanNumberByGivenN.exe
+D:\Telerik\Homework6\HomeworkLoops\06.10.CatalanNumberByGivenN\bin\Debug\06.10.CatalanNumberByGivenN.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.10.CatalanNumberByGivenN\obj\Debug\06.10.CatalanNumberByGivenN.exe
+D:\Telerik\Homework6\HomeworkLoops\06.10.CatalanNumberByGivenN\obj\Debug\06.10.CatalanNumberByGivenN.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.04.SortRealValues\bin\Debug\05.04.SortRealValues.exe.config
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.04.SortRealValues\bin\Debug\05.04.SortRealValues.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.04.SortRealValues\bin\Debug\05.04.SortRealValues.pdb
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.04.SortRealValues\obj\Debug\05.04.SortRealValues.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.04.SortRealValues\obj\Debug\05.04.SortRealValues.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.04.SortRealValues\obj\Debug\05.04.SortRealValues.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.11.TwoIntegerVariables\bin\Debug\2.11.TwoIntegerVariables.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.11.TwoIntegerVariables\bin\Debug\2.11.TwoIntegerVariables.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.11.TwoIntegerVariables\bin\Debug\2.11.TwoIntegerVariables.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.11.TwoIntegerVariables\obj\Debug\2.11.TwoIntegerVariables.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.11.TwoIntegerVariables\obj\Debug\2.11.TwoIntegerVariables.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.11.TwoIntegerVariables\obj\Debug\2.11.TwoIntegerVariables.pdb

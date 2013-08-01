@@ -1,0 +1,6 @@
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.05.GetsTwoNumbers\bin\Debug\04.05.GetsTwoNumbers.exe.config
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.05.GetsTwoNumbers\bin\Debug\04.05.GetsTwoNumbers.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.05.GetsTwoNumbers\bin\Debug\04.05.GetsTwoNumbers.pdb
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.05.GetsTwoNumbers\obj\Debug\04.05.GetsTwoNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.05.GetsTwoNumbers\obj\Debug\04.05.GetsTwoNumbers.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.05.GetsTwoNumbers\obj\Debug\04.05.GetsTwoNumbers.pdb

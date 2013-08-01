@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.03.CalculatesRectangleArea\bin\Debug\03.03.CalculatesRectangleArea.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.03.CalculatesRectangleArea\bin\Debug\03.03.CalculatesRectangleArea.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.03.CalculatesRectangleArea\bin\Debug\03.03.CalculatesRectangleArea.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.03.CalculatesRectangleArea\obj\Debug\03.03.CalculatesRectangleArea.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.03.CalculatesRectangleArea\obj\Debug\03.03.CalculatesRectangleArea.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.03.CalculatesRectangleArea\obj\Debug\03.03.CalculatesRectangleArea.csprojResolveAssemblyReference.cache

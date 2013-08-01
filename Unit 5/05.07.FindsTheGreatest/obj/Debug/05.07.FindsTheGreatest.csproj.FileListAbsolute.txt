@@ -1,0 +1,5 @@
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.07.FindsTheGreatest\bin\Debug\05.07.FindsTheGreatest.exe.config
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.07.FindsTheGreatest\bin\Debug\05.07.FindsTheGreatest.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.07.FindsTheGreatest\bin\Debug\05.07.FindsTheGreatest.pdb
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.07.FindsTheGreatest\obj\Debug\05.07.FindsTheGreatest.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.07.FindsTheGreatest\obj\Debug\05.07.FindsTheGreatest.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.06.WithinACircle\bin\Debug\03.06.WithinACircle.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.06.WithinACircle\bin\Debug\03.06.WithinACircle.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.06.WithinACircle\bin\Debug\03.06.WithinACircle.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.06.WithinACircle\obj\Debug\03.06.WithinACircle.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.06.WithinACircle\obj\Debug\03.06.WithinACircle.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.06.WithinACircle\obj\Debug\03.06.WithinACircle.pdb

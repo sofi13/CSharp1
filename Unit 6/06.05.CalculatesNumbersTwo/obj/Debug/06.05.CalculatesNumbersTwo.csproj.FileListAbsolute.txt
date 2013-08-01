@@ -1,0 +1,6 @@
+D:\Telerik\Homework6\HomeworkLoops\06.05.CalculatesNumbersTwo\bin\Debug\06.05.CalculatesNumbersTwo.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.05.CalculatesNumbersTwo\bin\Debug\06.05.CalculatesNumbersTwo.exe
+D:\Telerik\Homework6\HomeworkLoops\06.05.CalculatesNumbersTwo\bin\Debug\06.05.CalculatesNumbersTwo.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.05.CalculatesNumbersTwo\obj\Debug\06.05.CalculatesNumbersTwo.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework6\HomeworkLoops\06.05.CalculatesNumbersTwo\obj\Debug\06.05.CalculatesNumbersTwo.exe
+D:\Telerik\Homework6\HomeworkLoops\06.05.CalculatesNumbersTwo\obj\Debug\06.05.CalculatesNumbersTwo.pdb

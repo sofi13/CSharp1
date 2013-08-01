@@ -1,0 +1,6 @@
+D:\Telerik\Homework6\HomeworkLoops\06.13.TrailingZeros\bin\Debug\06.13.TrailingZeros.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.13.TrailingZeros\bin\Debug\06.13.TrailingZeros.exe
+D:\Telerik\Homework6\HomeworkLoops\06.13.TrailingZeros\bin\Debug\06.13.TrailingZeros.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.13.TrailingZeros\obj\Debug\06.13.TrailingZeros.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework6\HomeworkLoops\06.13.TrailingZeros\obj\Debug\06.13.TrailingZeros.exe
+D:\Telerik\Homework6\HomeworkLoops\06.13.TrailingZeros\obj\Debug\06.13.TrailingZeros.pdb

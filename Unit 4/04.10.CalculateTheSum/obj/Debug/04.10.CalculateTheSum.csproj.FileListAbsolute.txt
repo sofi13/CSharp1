@@ -1,0 +1,5 @@
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.10.CalculateTheSum\bin\Debug\04.10.CalculateTheSum.exe.config
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.10.CalculateTheSum\bin\Debug\04.10.CalculateTheSum.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.10.CalculateTheSum\bin\Debug\04.10.CalculateTheSum.pdb
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.10.CalculateTheSum\obj\Debug\04.10.CalculateTheSum.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.10.CalculateTheSum\obj\Debug\04.10.CalculateTheSum.pdb

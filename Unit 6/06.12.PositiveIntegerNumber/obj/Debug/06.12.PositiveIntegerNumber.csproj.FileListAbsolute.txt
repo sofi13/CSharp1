@@ -1,0 +1,5 @@
+D:\Telerik\Homework6\HomeworkLoops\06.12.PositiveIntegerNumber\bin\Debug\06.12.PositiveIntegerNumber.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.12.PositiveIntegerNumber\bin\Debug\06.12.PositiveIntegerNumber.exe
+D:\Telerik\Homework6\HomeworkLoops\06.12.PositiveIntegerNumber\bin\Debug\06.12.PositiveIntegerNumber.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.12.PositiveIntegerNumber\obj\Debug\06.12.PositiveIntegerNumber.exe
+D:\Telerik\Homework6\HomeworkLoops\06.12.PositiveIntegerNumber\obj\Debug\06.12.PositiveIntegerNumber.pdb

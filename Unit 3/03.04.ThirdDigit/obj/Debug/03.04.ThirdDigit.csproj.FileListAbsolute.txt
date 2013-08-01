@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.04.ThirdDigit\bin\Debug\03.04.ThirdDigit.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.04.ThirdDigit\bin\Debug\03.04.ThirdDigit.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.04.ThirdDigit\bin\Debug\03.04.ThirdDigit.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.04.ThirdDigit\obj\Debug\03.04.ThirdDigit.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.04.ThirdDigit\obj\Debug\03.04.ThirdDigit.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.04.ThirdDigit\obj\Debug\03.04.ThirdDigit.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.11.GivenIntegerI\bin\Debug\03.11.GivenIntegerI.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.11.GivenIntegerI\bin\Debug\03.11.GivenIntegerI.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.11.GivenIntegerI\bin\Debug\03.11.GivenIntegerI.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.11.GivenIntegerI\obj\Debug\03.11.GivenIntegerI.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.11.GivenIntegerI\obj\Debug\03.11.GivenIntegerI.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.11.GivenIntegerI\obj\Debug\03.11.GivenIntegerI.pdb

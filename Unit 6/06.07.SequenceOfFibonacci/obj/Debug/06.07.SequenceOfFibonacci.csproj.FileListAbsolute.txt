@@ -1,0 +1,6 @@
+D:\Telerik\Homework6\HomeworkLoops\06.07.SequenceOfFibonacci\bin\Debug\06.07.SequenceOfFibonacci.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.07.SequenceOfFibonacci\bin\Debug\06.07.SequenceOfFibonacci.exe
+D:\Telerik\Homework6\HomeworkLoops\06.07.SequenceOfFibonacci\bin\Debug\06.07.SequenceOfFibonacci.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.07.SequenceOfFibonacci\obj\Debug\06.07.SequenceOfFibonacci.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework6\HomeworkLoops\06.07.SequenceOfFibonacci\obj\Debug\06.07.SequenceOfFibonacci.exe
+D:\Telerik\Homework6\HomeworkLoops\06.07.SequenceOfFibonacci\obj\Debug\06.07.SequenceOfFibonacci.pdb

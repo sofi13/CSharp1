@@ -1,0 +1,5 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.14.BankAccount\bin\Debug\2.14.BankAccount.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.14.BankAccount\bin\Debug\2.14.BankAccount.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.14.BankAccount\bin\Debug\2.14.BankAccount.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.14.BankAccount\obj\Debug\2.14.BankAccount.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.14.BankAccount\obj\Debug\2.14.BankAccount.pdb

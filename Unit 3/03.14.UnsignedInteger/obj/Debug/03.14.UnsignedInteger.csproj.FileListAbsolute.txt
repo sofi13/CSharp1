@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.14.UnsignedInteger\bin\Debug\03.14.UnsignedInteger.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.14.UnsignedInteger\obj\Debug\03.14.UnsignedInteger.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.14.UnsignedInteger\bin\Debug\03.14.UnsignedInteger.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.14.UnsignedInteger\bin\Debug\03.14.UnsignedInteger.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.14.UnsignedInteger\obj\Debug\03.14.UnsignedInteger.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.14.UnsignedInteger\obj\Debug\03.14.UnsignedInteger.pdb

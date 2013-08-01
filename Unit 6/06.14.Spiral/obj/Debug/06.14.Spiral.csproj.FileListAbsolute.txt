@@ -1,0 +1,5 @@
+D:\Telerik\Homework6\HomeworkLoops\06.14.Spiral\bin\Debug\06.14.Spiral.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.14.Spiral\bin\Debug\06.14.Spiral.exe
+D:\Telerik\Homework6\HomeworkLoops\06.14.Spiral\bin\Debug\06.14.Spiral.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.14.Spiral\obj\Debug\06.14.Spiral.exe
+D:\Telerik\Homework6\HomeworkLoops\06.14.Spiral\obj\Debug\06.14.Spiral.pdb

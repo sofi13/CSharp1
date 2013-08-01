@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.10.ReturnsIfTheBitAtPosition\bin\Debug\03.10.ReturnsIfTheBitAtPosition.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.10.ReturnsIfTheBitAtPosition\bin\Debug\03.10.ReturnsIfTheBitAtPosition.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.10.ReturnsIfTheBitAtPosition\bin\Debug\03.10.ReturnsIfTheBitAtPosition.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.10.ReturnsIfTheBitAtPosition\obj\Debug\03.10.ReturnsIfTheBitAtPosition.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.10.ReturnsIfTheBitAtPosition\obj\Debug\03.10.ReturnsIfTheBitAtPosition.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.10.ReturnsIfTheBitAtPosition\obj\Debug\03.10.ReturnsIfTheBitAtPosition.csprojResolveAssemblyReference.cache

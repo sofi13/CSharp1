@@ -1,0 +1,5 @@
+D:\Telerik\Homework6\HomeworkLoops\06.09.TheCatalanNumbers\bin\Debug\06.09.TheCatalanNumbers.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.09.TheCatalanNumbers\bin\Debug\06.09.TheCatalanNumbers.exe
+D:\Telerik\Homework6\HomeworkLoops\06.09.TheCatalanNumbers\bin\Debug\06.09.TheCatalanNumbers.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.09.TheCatalanNumbers\obj\Debug\06.09.TheCatalanNumbers.exe
+D:\Telerik\Homework6\HomeworkLoops\06.09.TheCatalanNumbers\obj\Debug\06.09.TheCatalanNumbers.pdb

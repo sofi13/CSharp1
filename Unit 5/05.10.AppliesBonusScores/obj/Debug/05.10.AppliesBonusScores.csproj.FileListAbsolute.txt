@@ -1,0 +1,6 @@
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.10.AppliesBonusScores\bin\Debug\05.10.AppliesBonusScores.exe.config
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.10.AppliesBonusScores\bin\Debug\05.10.AppliesBonusScores.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.10.AppliesBonusScores\bin\Debug\05.10.AppliesBonusScores.pdb
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.10.AppliesBonusScores\obj\Debug\05.10.AppliesBonusScores.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.10.AppliesBonusScores\obj\Debug\05.10.AppliesBonusScores.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.10.AppliesBonusScores\obj\Debug\05.10.AppliesBonusScores.pdb

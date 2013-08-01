@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.05.BooleanExpression\bin\Debug\03.05.BooleanExpression.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.05.BooleanExpression\bin\Debug\03.05.BooleanExpression.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.05.BooleanExpression\bin\Debug\03.05.BooleanExpression.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.05.BooleanExpression\obj\Debug\03.05.BooleanExpression.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.05.BooleanExpression\obj\Debug\03.05.BooleanExpression.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.05.BooleanExpression\obj\Debug\03.05.BooleanExpression.csprojResolveAssemblyReference.cache

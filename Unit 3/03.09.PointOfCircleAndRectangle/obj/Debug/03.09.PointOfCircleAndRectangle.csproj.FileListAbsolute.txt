@@ -1,0 +1,6 @@
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.09.PointOfCircleAndRectangle\bin\Debug\03.09.PointOfCircleAndRectangle.exe.config
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.09.PointOfCircleAndRectangle\bin\Debug\03.09.PointOfCircleAndRectangle.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.09.PointOfCircleAndRectangle\bin\Debug\03.09.PointOfCircleAndRectangle.pdb
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.09.PointOfCircleAndRectangle\obj\Debug\03.09.PointOfCircleAndRectangle.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.09.PointOfCircleAndRectangle\obj\Debug\03.09.PointOfCircleAndRectangle.exe
+D:\Telerik\Homework3\HomeworkOperatorsAndExpressions\03.09.PointOfCircleAndRectangle\obj\Debug\03.09.PointOfCircleAndRectangle.pdb

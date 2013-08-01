@@ -1,0 +1,6 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.7.DeclareAnObjectVariable\bin\Debug\2.7.DeclareAnObjectVariable.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.7.DeclareAnObjectVariable\bin\Debug\2.7.DeclareAnObjectVariable.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.7.DeclareAnObjectVariable\bin\Debug\2.7.DeclareAnObjectVariable.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.7.DeclareAnObjectVariable\obj\Debug\2.7.DeclareAnObjectVariable.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.7.DeclareAnObjectVariable\obj\Debug\2.7.DeclareAnObjectVariable.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.7.DeclareAnObjectVariable\obj\Debug\2.7.DeclareAnObjectVariable.pdb

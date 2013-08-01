@@ -1,0 +1,6 @@
+D:\Telerik\Homework6\HomeworkLoops\06.01.PrintsAllTheNumbers\bin\Debug\06.01.PrintsAllTheNumbers.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.01.PrintsAllTheNumbers\bin\Debug\06.01.PrintsAllTheNumbers.exe
+D:\Telerik\Homework6\HomeworkLoops\06.01.PrintsAllTheNumbers\bin\Debug\06.01.PrintsAllTheNumbers.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.01.PrintsAllTheNumbers\obj\Debug\06.01.PrintsAllTheNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework6\HomeworkLoops\06.01.PrintsAllTheNumbers\obj\Debug\06.01.PrintsAllTheNumbers.exe
+D:\Telerik\Homework6\HomeworkLoops\06.01.PrintsAllTheNumbers\obj\Debug\06.01.PrintsAllTheNumbers.pdb

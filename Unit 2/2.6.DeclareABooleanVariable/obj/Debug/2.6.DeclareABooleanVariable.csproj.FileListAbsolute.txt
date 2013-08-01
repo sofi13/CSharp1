@@ -1,0 +1,6 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.6.DeclareABooleanVariable\bin\Debug\2.6.DeclareABooleanVariable.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.6.DeclareABooleanVariable\bin\Debug\2.6.DeclareABooleanVariable.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.6.DeclareABooleanVariable\bin\Debug\2.6.DeclareABooleanVariable.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.6.DeclareABooleanVariable\obj\Debug\2.6.DeclareABooleanVariable.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.6.DeclareABooleanVariable\obj\Debug\2.6.DeclareABooleanVariable.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.6.DeclareABooleanVariable\obj\Debug\2.6.DeclareABooleanVariable.pdb

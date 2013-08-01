@@ -1,0 +1,6 @@
+D:\Telerik\Homework6\HomeworkLoops\06.02.NumbersNotDivisible\bin\Debug\06.02.NumbersNotDivisible.exe.config
+D:\Telerik\Homework6\HomeworkLoops\06.02.NumbersNotDivisible\bin\Debug\06.02.NumbersNotDivisible.exe
+D:\Telerik\Homework6\HomeworkLoops\06.02.NumbersNotDivisible\bin\Debug\06.02.NumbersNotDivisible.pdb
+D:\Telerik\Homework6\HomeworkLoops\06.02.NumbersNotDivisible\obj\Debug\06.02.NumbersNotDivisible.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework6\HomeworkLoops\06.02.NumbersNotDivisible\obj\Debug\06.02.NumbersNotDivisible.exe
+D:\Telerik\Homework6\HomeworkLoops\06.02.NumbersNotDivisible\obj\Debug\06.02.NumbersNotDivisible.pdb

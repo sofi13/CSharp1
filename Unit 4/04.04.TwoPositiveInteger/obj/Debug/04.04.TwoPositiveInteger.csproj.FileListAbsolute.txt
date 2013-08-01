@@ -1,0 +1,6 @@
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.04.TwoPositiveInteger\bin\Debug\04.04.TwoPositiveInteger.exe.config
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.04.TwoPositiveInteger\bin\Debug\04.04.TwoPositiveInteger.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.04.TwoPositiveInteger\bin\Debug\04.04.TwoPositiveInteger.pdb
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.04.TwoPositiveInteger\obj\Debug\04.04.TwoPositiveInteger.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.04.TwoPositiveInteger\obj\Debug\04.04.TwoPositiveInteger.exe
+D:\Telerik\Homework4\HomeworkConsoleInputOutput\04.04.TwoPositiveInteger\obj\Debug\04.04.TwoPositiveInteger.pdb

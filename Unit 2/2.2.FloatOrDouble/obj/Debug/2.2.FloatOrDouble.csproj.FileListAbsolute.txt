@@ -1,0 +1,5 @@
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.2.FloatOrDouble\bin\Debug\2.2.FloatOrDouble.exe.config
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.2.FloatOrDouble\bin\Debug\2.2.FloatOrDouble.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.2.FloatOrDouble\bin\Debug\2.2.FloatOrDouble.pdb
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.2.FloatOrDouble\obj\Debug\2.2.FloatOrDouble.exe
+D:\Telerik\Homework2\HomeworkPrimitivDateTypesAndVariables\2.2.FloatOrDouble\obj\Debug\2.2.FloatOrDouble.pdb

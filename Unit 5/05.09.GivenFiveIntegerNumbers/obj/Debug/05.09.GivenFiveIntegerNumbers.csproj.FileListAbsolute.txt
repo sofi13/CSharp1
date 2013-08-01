@@ -1,0 +1,6 @@
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.09.GivenFiveIntegerNumbers\bin\Debug\05.09.GivenFiveIntegerNumbers.exe.config
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.09.GivenFiveIntegerNumbers\bin\Debug\05.09.GivenFiveIntegerNumbers.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.09.GivenFiveIntegerNumbers\bin\Debug\05.09.GivenFiveIntegerNumbers.pdb
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.09.GivenFiveIntegerNumbers\obj\Debug\05.09.GivenFiveIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.09.GivenFiveIntegerNumbers\obj\Debug\05.09.GivenFiveIntegerNumbers.exe
+D:\Telerik\Homework5\HomewoekConditionalStatements\05.09.GivenFiveIntegerNumbers\obj\Debug\05.09.GivenFiveIntegerNumbers.pdb
