@@ -1,0 +1,9 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\bin\Debug\1.12.AgeAfterTenYears.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\bin\Debug\1.12.AgeAfterTenYears.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\bin\Debug\1.12.AgeAfterTenYears.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\obj\Debug\1.12.AgeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\obj\Debug\1.12.AgeAfterTenYears.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\obj\Debug\1.12.AgeAfterTenYears.pdb
+D:\Telerik\C#\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\bin\Debug\1.12.AgeAfterTenYears.exe.config
+D:\Telerik\C#\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\obj\Debug\1.12.AgeAfterTenYears.exe
+D:\Telerik\C#\Homework1\HomeworkIntroductionToPrograming\1.12.AgeAfterTenYears\obj\Debug\1.12.AgeAfterTenYears.pdb

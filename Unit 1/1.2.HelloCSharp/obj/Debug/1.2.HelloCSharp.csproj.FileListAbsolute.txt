@@ -1,0 +1,9 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\bin\Debug\1.2.HelloCSharp.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\bin\Debug\1.2.HelloCSharp.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\bin\Debug\1.2.HelloCSharp.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\obj\Debug\1.2.HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\obj\Debug\1.2.HelloCSharp.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\obj\Debug\1.2.HelloCSharp.pdb
+D:\Telerik\C#\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\bin\Debug\1.2.HelloCSharp.exe.config
+D:\Telerik\C#\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\obj\Debug\1.2.HelloCSharp.exe
+D:\Telerik\C#\Homework1\HomeworkIntroductionToPrograming\1.2.HelloCSharp\obj\Debug\1.2.HelloCSharp.pdb

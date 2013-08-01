@@ -1,0 +1,6 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.8.SquareOfTheNumber12345\bin\Debug\1.8.SquareOfTheNumber12345.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.8.SquareOfTheNumber12345\bin\Debug\1.8.SquareOfTheNumber12345.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.8.SquareOfTheNumber12345\bin\Debug\1.8.SquareOfTheNumber12345.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.8.SquareOfTheNumber12345\obj\Debug\1.8.SquareOfTheNumber12345.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.8.SquareOfTheNumber12345\obj\Debug\1.8.SquareOfTheNumber12345.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.8.SquareOfTheNumber12345\obj\Debug\1.8.SquareOfTheNumber12345.pdb

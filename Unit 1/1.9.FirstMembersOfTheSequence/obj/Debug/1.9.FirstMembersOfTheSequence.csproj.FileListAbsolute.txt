@@ -1,0 +1,5 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.9.FirstMembersOfTheSequence\bin\Debug\1.9.FirstMembersOfTheSequence.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.9.FirstMembersOfTheSequence\bin\Debug\1.9.FirstMembersOfTheSequence.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.9.FirstMembersOfTheSequence\bin\Debug\1.9.FirstMembersOfTheSequence.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.9.FirstMembersOfTheSequence\obj\Debug\1.9.FirstMembersOfTheSequence.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.9.FirstMembersOfTheSequence\obj\Debug\1.9.FirstMembersOfTheSequence.pdb

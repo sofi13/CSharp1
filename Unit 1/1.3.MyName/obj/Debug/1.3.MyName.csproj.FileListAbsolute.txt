@@ -1,0 +1,5 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.3.MyName\bin\Debug\1.3.MyName.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.3.MyName\bin\Debug\1.3.MyName.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.3.MyName\bin\Debug\1.3.MyName.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.3.MyName\obj\Debug\1.3.MyName.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.3.MyName\obj\Debug\1.3.MyName.pdb

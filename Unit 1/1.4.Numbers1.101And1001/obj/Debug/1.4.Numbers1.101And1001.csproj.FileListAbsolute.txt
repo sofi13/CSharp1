@@ -1,0 +1,6 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.4.Numbers1.101And1001\bin\Debug\1.4.Numbers1.101And1001.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.4.Numbers1.101And1001\bin\Debug\1.4.Numbers1.101And1001.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.4.Numbers1.101And1001\bin\Debug\1.4.Numbers1.101And1001.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.4.Numbers1.101And1001\obj\Debug\1.4.Numbers1.101And1001.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.4.Numbers1.101And1001\obj\Debug\1.4.Numbers1.101And1001.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.4.Numbers1.101And1001\obj\Debug\1.4.Numbers1.101And1001.pdb

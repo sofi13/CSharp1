@@ -1,0 +1,6 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.6.FirstAndLastName\bin\Debug\1.6.FirstAndLastName.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.6.FirstAndLastName\bin\Debug\1.6.FirstAndLastName.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.6.FirstAndLastName\bin\Debug\1.6.FirstAndLastName.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.6.FirstAndLastName\obj\Debug\1.6.FirstAndLastName.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.6.FirstAndLastName\obj\Debug\1.6.FirstAndLastName.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.6.FirstAndLastName\obj\Debug\1.6.FirstAndLastName.csprojResolveAssemblyReference.cache

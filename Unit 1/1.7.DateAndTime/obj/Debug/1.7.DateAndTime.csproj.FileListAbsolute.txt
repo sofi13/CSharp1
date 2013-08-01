@@ -1,0 +1,5 @@
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.7.DateAndTime\bin\Debug\1.7.DateAndTime.exe.config
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.7.DateAndTime\bin\Debug\1.7.DateAndTime.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.7.DateAndTime\bin\Debug\1.7.DateAndTime.pdb
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.7.DateAndTime\obj\Debug\1.7.DateAndTime.exe
+D:\Telerik\Homework1\HomeworkIntroductionToPrograming\1.7.DateAndTime\obj\Debug\1.7.DateAndTime.pdb
